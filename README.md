@@ -13,6 +13,8 @@ My goal is to demonstrate not just tool usage, but also:
 - Clear documentation and professional reporting (Allure, Extent, JMeter reports)  
 
 ---
+#  Learning Materials
+[LinkedIn Learning Test Automation - Selenium(Java)](https://github.com/kalharijay7/test-automation-with-selenium-webdriver-for-java-2124033)
 
 ## 🔹 Projects
 
