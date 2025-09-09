@@ -18,7 +18,7 @@ My goal is to demonstrate not just tool usage, but also:
 
 ## 🔹 Projects
 
-### Selenium (Java)
+### Selenium (Java) - Work In Progress
 - [Selenium Java Basics](#) – UI automation of SauceDemo (login, add-to-cart, checkout)  
 
 ### Playwright (TypeScript)
