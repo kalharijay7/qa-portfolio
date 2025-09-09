@@ -21,13 +21,13 @@ My goal is to demonstrate not just tool usage, but also:
 ### Selenium (Java) - Work In Progress
 - [Selenium Java Basics](#) – UI automation of SauceDemo (login, add-to-cart, checkout)  
 
-### Playwright (TypeScript)
+### Playwright (TypeScript) - Yet to do
 - [Playwright Basics](#) – Cross-browser automation for SauceDemo  
 
-### API Testing
+### API Testing - Yet to do
 - [API Testing Framework](#) – REST Assured (Java) or Playwright API with sample test cases  
 
-### Performance Testing
+### Performance Testing - Yet to do
 - [JMeter Performance Tests](#) – Load and stress testing sample APIs with HTML reports  
 
 ---
