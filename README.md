@@ -19,7 +19,7 @@ My goal is to demonstrate not just tool usage, but also:
 ## 🔹 Projects
 
 ### Selenium (Java) - Work In Progress
-- [Selenium Java Basics](#) – UI automation of SauceDemo (login, add-to-cart, checkout)  
+- [Selenium Java Framework](https://github.com/kalharijay7/nopcommerce-selenium-framework) – UI automation of [nopcommerce demo](https://demo.nopcommerce.com/) (login, add-to-cart, checkout). Building a data-driven framework with POM from scratch. 
 
 ### Playwright (TypeScript) - Yet to do
 - [Playwright Basics](#) – Cross-browser automation for SauceDemo  
