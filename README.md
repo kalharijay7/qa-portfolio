@@ -27,9 +27,9 @@ My goal is to demonstrate not just tool usage, but also:
 - **Page Object Model (POM) Framework** – clean, maintainable test structure.  
 - **Reusable Utilities** – centralized WebDriver setup, actions, and config management.  
 - **Organized Test Cases** – dedicated classes for mandatory fields, validations, and workflows.  
-- **TestNG + Maven Integration** – parallel execution, dependency management, and CI/CD readiness.  
+- **TestNG + Maven Integration** – parallel execution and dependency management.  
 - **Validation Tools** – built-in link validator and test documentation (`TEST_CASES.md`).  
-- **Future-Ready** – easily extendable for new modules and reporting (Allure/Extent).  
+- **Future-Ready** – easily extendable for new modules and reporting (Allure/Extent), CI/CD readiness.  
 
 ---
 
