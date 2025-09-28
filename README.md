@@ -31,7 +31,12 @@ My goal is to demonstrate not just tool usage, but also:
 - **Validation Tools** – built-in link validator and test documentation (`TEST_CASES.md`).  
 - **Future-Ready** – easily extendable for new modules and reporting (Allure/Extent).  
 
-- [**Selenium Java Framework**](https://github.com/kalharijay7/nopcommerce-selenium-framework) – UI automation of [nopcommerce demo](https://demo.nopcommerce.com/) (login, add-to-cart, checkout). Building a data-driven framework with POM from scratch.
+---
+
+### Selenium (Java) – Framework  
+- [**Selenium Java Framework**](https://github.com/kalharijay7/nopcommerce-selenium-framework)  
+  UI automation of [nopCommerce demo](https://demo.nopcommerce.com/) covering login, add-to-cart, and checkout flows.  
+  Building a **data-driven framework** with **Page Object Model (POM)** from scratch to ensure scalability and maintainability.  
 
 ### Playwright (TypeScript) - Yet to do
 - [Playwright Basics](#) – Cross-browser automation for SauceDemo  
