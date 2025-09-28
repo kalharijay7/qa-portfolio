@@ -19,8 +19,16 @@ My goal is to demonstrate not just tool usage, but also:
 ## 🔹 Projects
 
 ### Selenium (Java) - Work In Progress
-- [Selenium Java Framework](https://github.com/kalharijay7/nopcommerce-selenium-framework) – UI automation of [nopcommerce demo](https://demo.nopcommerce.com/) (login, add-to-cart, checkout). Building a data-driven framework with POM from scratch.
 - [Selenium Java Automation Learning](https://github.com/kalharijay7/nopcommerce-test-automation.git) - A practice/learning repo of automating end-to-end tese cases of [nopcommerce demo](https://demo.nopcommerce.com/). My goal in implementing this project is to first strengthen my skills in Selenium WebDriver and TestNG, and learn best practices, before completing the implementation of the above project. So that I can clearly understand the advantages of POM and why I need to leverage automation framework design concepts to have a scalable and maintainable framework.
+- **Key Features**:
+Page Object Model (POM) Framework – clean, maintainable test structure.
+Reusable Utilities – centralized WebDriver setup, actions, and config management.
+Organized Test Cases – dedicated classes for mandatory fields, validations, and workflows.
+TestNG + Maven Integration – parallel execution, dependency management, and CI/CD readiness.
+Validation Tools – built-in link validator and test documentation (TEST_CASES.md).
+Future-Ready – easily extendable for new modules and reporting (Allure/Extent).
+
+- [Selenium Java Framework](https://github.com/kalharijay7/nopcommerce-selenium-framework) – UI automation of [nopcommerce demo](https://demo.nopcommerce.com/) (login, add-to-cart, checkout). Building a data-driven framework with POM from scratch.
 
 ### Playwright (TypeScript) - Yet to do
 - [Playwright Basics](#) – Cross-browser automation for SauceDemo  
@@ -53,5 +61,3 @@ This repo is designed to:
 - Group my QA projects in one place for easy navigation  
 - Demonstrate practical experience with automation & performance testing tools  
 - Track my learning journey as I transition from **manual testing → automation → advanced frameworks**  
-
----
