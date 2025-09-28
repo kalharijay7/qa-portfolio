@@ -20,8 +20,8 @@ My goal is to demonstrate not just tool usage, but also:
 
 ### Selenium (Java) - Work In Progress
 - [Selenium Java Automation Learning](https://github.com/kalharijay7/nopcommerce-test-automation.git) - A practice/learning repo of automating end-to-end tese cases of [nopcommerce demo](https://demo.nopcommerce.com/). My goal in implementing this project is to first strengthen my skills in Selenium WebDriver and TestNG, and learn best practices, before completing the implementation of the above project. So that I can clearly understand the advantages of POM and why I need to leverage automation framework design concepts to have a scalable and maintainable framework.
-- #### Key Features:
--** Page Object Model (POM) Framework – clean, maintainable test structure.**
+- **Key Features**:
+-Page Object Model (POM) Framework – clean, maintainable test structure.
 -Reusable Utilities – centralized WebDriver setup, actions, and config management.
 -Organized Test Cases – dedicated classes for mandatory fields, validations, and workflows.
 -TestNG + Maven Integration – parallel execution, dependency management, and CI/CD readiness.
