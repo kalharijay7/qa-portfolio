@@ -33,7 +33,7 @@ My goal is to demonstrate not just tool usage, but also:
 
 ---
 
-### Selenium (Java) – Framework  
+### Selenium (Java) Framework – *Work In Progress*  
 - [**Selenium Java Framework**](https://github.com/kalharijay7/nopcommerce-selenium-framework)  
   UI automation of [nopCommerce demo](https://demo.nopcommerce.com/) covering login, add-to-cart, and checkout flows.  
   Building a **data-driven framework** with **Page Object Model (POM)** from scratch to ensure scalability and maintainability.  
